@@ -1,3 +1,3 @@
 # vendor_xiaomi_firmware
 
-This project is only for XiaoMi 8SE(sirius)
+This project is only for Xiaomi mi mix 2s(Polaris)
